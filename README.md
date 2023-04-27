@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EmilianoEzequielG
-- 📆 25 years Old.
-- 👀 I’m interested in Sports and Stats
+- 👀 I’m interested in `Sports` and `Stats`
 - 🌎 I’m from Argentina. 
-- 🎓 I’m an Actuary from the Universidad of Buenos Aires, Argeninta.
+- 🎓 I’m an Actuary from the Universidad of Buenos Aires (UBA).
 
 
 
