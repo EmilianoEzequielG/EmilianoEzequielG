@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmilianoEzequielG
-- 👀 I’m interested in `Sports` and `Stats`
-- 🌎 I’m from Argentina. 
-- 🎓 I’m an Actuary from the Universidad of Buenos Aires (UBA).
+- 👀 Interested in `Sports` and `Stats`
+- 🌎 Argentina. 
+- 🎓 Actuary from the Universidad of Buenos Aires (UBA).
 
 
 
